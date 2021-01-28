@@ -1,2 +1,3 @@
 # Predicting_fuel_efficiency-project
-End to End Machine Learning Project on Fuel Consumption Prediction of 70s and 80s vehicles. Based on dswh https://github.com/dswh
+This is an end-to-end machine learning project to predict fuel efficiency of 70's and 80´s vehicles.  
+Based on dswh Data Science with Harshit repository.
